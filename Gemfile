@@ -70,5 +70,4 @@ gem 'kaminari'
 gem 'devise'
 gem "font-awesome-sass"
 gem 'jquery-rails'
-gem 'fog',  '1.42'
 gem 'fog-aws'
