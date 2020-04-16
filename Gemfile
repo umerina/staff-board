@@ -71,3 +71,4 @@ gem 'devise'
 gem "font-awesome-sass"
 gem 'jquery-rails'
 gem 'fog-aws'
+gem "mime-types"
