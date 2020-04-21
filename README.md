@@ -1,4 +1,4 @@
-Staff-board<h1>
+Staff-board
 
 
 ◇ 概要 ◇
