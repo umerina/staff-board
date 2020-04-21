@@ -1,4 +1,4 @@
-#Staff-board
+# Staff-board
 
 ◇ 概要 ◇
 Ruby on Railsの勉強として作成したブログアプリです。<br> 
