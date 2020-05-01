@@ -116,6 +116,9 @@ body{
         padding-top: 30px;
         text-align: center;
       }
+      &__image{
+        text-align: center;
+      }
     }
     .postTitle{
       padding-top: 20px;
@@ -188,17 +191,14 @@ body{
       height: 50%;
       margin-top: 15px;
     }
-    &__image{
-      
-
-
-    }
     &__btn{
       display: block;
       width: 30%;
       margin: 15px auto 0;
     }
+
   }
+  
   .user{
     padding: 15px 30px;
   }
